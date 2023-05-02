@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\AumentoUsandoList\bin\Debug\net6.0\AumentoUsandoList.exe
+C:\Users\pauli\source\repos\AumentoUsandoList\bin\Debug\net6.0\AumentoUsandoList.deps.json
+C:\Users\pauli\source\repos\AumentoUsandoList\bin\Debug\net6.0\AumentoUsandoList.runtimeconfig.json
+C:\Users\pauli\source\repos\AumentoUsandoList\bin\Debug\net6.0\AumentoUsandoList.dll
+C:\Users\pauli\source\repos\AumentoUsandoList\bin\Debug\net6.0\AumentoUsandoList.pdb
+C:\Users\pauli\source\repos\AumentoUsandoList\obj\Debug\net6.0\AumentoUsandoList.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\AumentoUsandoList\obj\Debug\net6.0\AumentoUsandoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\AumentoUsandoList\obj\Debug\net6.0\AumentoUsandoList.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\AumentoUsandoList\obj\Debug\net6.0\AumentoUsandoList.AssemblyInfo.cs
+C:\Users\pauli\source\repos\AumentoUsandoList\obj\Debug\net6.0\AumentoUsandoList.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\AumentoUsandoList\obj\Debug\net6.0\AumentoUsandoList.dll
+C:\Users\pauli\source\repos\AumentoUsandoList\obj\Debug\net6.0\refint\AumentoUsandoList.dll
+C:\Users\pauli\source\repos\AumentoUsandoList\obj\Debug\net6.0\AumentoUsandoList.pdb
+C:\Users\pauli\source\repos\AumentoUsandoList\obj\Debug\net6.0\AumentoUsandoList.genruntimeconfig.cache
+C:\Users\pauli\source\repos\AumentoUsandoList\obj\Debug\net6.0\ref\AumentoUsandoList.dll
